@@ -1,0 +1,15 @@
+﻿<html>
+<head>
+<title>CI_Editz</title>
+</head>
+<body>
+<p><h1 align="center><u> CI_Editz Official Web Page</u></h1></p>
+<p><font face="arial" color="black">CI_Editz is a tiktok page.There is so many videos about cricket,music and games.</font></p> 
+<center><img src="tiktok.jpg" heiht="200" width="150"></center>
+<p><font face="arial" size="13" color="grey">watch videos from below</font></p>
+<ul type="circle">
+<li><a href="http://www.tiktok.com/@ci_editz?_t=ZS-8wLcGApMcOm&_r=1" target="_blank"> CI_editz </a></li>
+</ul>
+<hr size=4 color="black" width=100%>
+</body>
+</html>
